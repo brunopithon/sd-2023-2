@@ -10,7 +10,7 @@ Elixir:
   - `elixirc`: Compilador (Gera `.beam` a partir de arquivos `.ex`);
   - `elixir`: Interpretador (Para shebang ou executar arquivos `.exs`);
   - `iex`: Interpretador interativo;
-  - `mix`: Ferramenta para gerenciamento de projetos.
+  - `mix`: Ferramenta para gerenciamento dos projetos.
 
 - Criação de projetos com elixir:
 
